@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="./css/index.css"></link>
-
 <h3>Hi there 👋</h3>
 
 <!--
@@ -16,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <script type="text/javascript" src="./js/index.js"></script> -->
-<script>
-  alert("zhang")
-</script>

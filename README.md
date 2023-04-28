@@ -1,7 +1,5 @@
 <h3>Hi there 👋</h3>
-<div align="center">
- <object id="svg-object" data="./css/HelloWord.svg" type="image/svg+xml"></object>
-</div>
+
 
 <!--
 **Z-xiao-tian/Z-xiao-tian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -8,11 +8,11 @@
         }
       </style>
       <h1 id="title">HELLO WORLD!</h1>
-      <script>
-        document.getElementById("title").addEventListener("click", function() {
-          alert("You clicked the title!");
-        });
-      </script>
+      <![CDATA[
+          document.getElementById("title").addEventListener("click", function() {
+              alert("You clicked the title!");
+          });
+      ]]>
     </div>
   </foreignObject>
 </svg>

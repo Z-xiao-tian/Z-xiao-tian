@@ -1,7 +1,4 @@
-<h3>Hi there 👋</h3>
-<div align="center">
-  <img src="./css/HelloWord.svg" width="400" height="100" alt="css-in-readme">
-</div>
+<h3 align="center">👋 Welcome to my code repository</h3>
 
 <!--
 **Z-xiao-tian/Z-xiao-tian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

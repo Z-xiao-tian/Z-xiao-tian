@@ -1,5 +1,3 @@
-
-<script type="text/javascript" src="./js/index.js"></script>
 <link rel="stylesheet" href="./css/index.css"></link>
 
 ### Hi there 👋
@@ -18,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<script type="text/javascript" src="./js/index.js"></script>

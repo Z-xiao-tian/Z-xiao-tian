@@ -1,5 +1,5 @@
 <script src="./js/index.js"></script>
-<link href="./css/index.css"></link>
+<link rel="stylesheet" href="./css/index.css"></link>
 
 ### Hi there 👋
 

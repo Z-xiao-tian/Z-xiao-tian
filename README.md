@@ -1,6 +1,6 @@
 <h3>Hi there 👋</h3>
 <div align="center">
-  <img src="./css/HelloWord.svg" width="400" height="100" alt="css-in-readme">
+ <object id="svg-object" data="./css/HelloWord.svg" type="image/svg+xml"></object>
 </div>
 
 <!--

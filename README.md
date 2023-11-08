@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">👋 Hello,I`m Dylan</h1>
 <h3 align="center">welcome to my code repository</h3>
 <table>
-  <th>
     <td>zhang</td>
     <td>xiao</td>
     <td>tian</td>
-  </th>
 </table>
